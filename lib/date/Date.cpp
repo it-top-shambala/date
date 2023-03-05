@@ -5,7 +5,6 @@
 
 using namespace std;
 
-Date::Date() {}
 Date::Date(int year, int month, int day) {
     this->year = year;
     this->month = month;
